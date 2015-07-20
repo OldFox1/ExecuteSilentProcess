@@ -1,0 +1,6 @@
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\Foo\bin\Debug\Foo.exe.config
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\Foo\bin\Debug\Foo.exe
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\Foo\bin\Debug\Foo.pdb
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\Foo\obj\Debug\Foo.csprojResolveAssemblyReference.cache
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\Foo\obj\Debug\Foo.exe
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\Foo\obj\Debug\Foo.pdb

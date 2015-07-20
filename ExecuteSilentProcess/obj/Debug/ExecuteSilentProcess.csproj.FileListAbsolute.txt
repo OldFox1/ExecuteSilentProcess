@@ -1,0 +1,11 @@
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\ExecuteSilentProcess\bin\Debug\ExecuteSilentProcess.exe.config
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\ExecuteSilentProcess\bin\Debug\ExecuteSilentProcess.exe
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\ExecuteSilentProcess\bin\Debug\ExecuteSilentProcess.pdb
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\ExecuteSilentProcess\bin\Debug\Foo.exe
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\ExecuteSilentProcess\bin\Debug\Foo.pdb
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\ExecuteSilentProcess\obj\Debug\ExecuteSilentProcess.csprojResolveAssemblyReference.cache
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\ExecuteSilentProcess\obj\Debug\ExecuteSilentProcess.Form1.resources
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\ExecuteSilentProcess\obj\Debug\ExecuteSilentProcess.Properties.Resources.resources
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\ExecuteSilentProcess\obj\Debug\ExecuteSilentProcess.csproj.GenerateResource.Cache
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\ExecuteSilentProcess\obj\Debug\ExecuteSilentProcess.exe
+C:\Users\barak\Documents\GitHub\ExecuteSilentProcess\ExecuteSilentProcess\obj\Debug\ExecuteSilentProcess.pdb
